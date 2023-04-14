@@ -2,5 +2,9 @@
 Creating a new branch is quick & simple.
 Creating a new branch is quick AND simple.
 
+<<<<<<< HEAD
 -hello richard
+=======
+- hello baby
+>>>>>>> feature
 
